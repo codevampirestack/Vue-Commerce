@@ -1,7 +1,7 @@
 {
-  "name": "vuejs-starter-theme",
+  "name": "vue-commerce",
   "version": "1.0.0",
-  "description": "A vuejs application starter theme ",
+  "description": "VueJs E-commerce Theme",
   "author": "Afroza Yasmin",
   "private": true,
   "scripts": {
